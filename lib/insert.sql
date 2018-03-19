@@ -11,23 +11,23 @@
 -- INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_10", "gadgets", 1500, 3/12/2017, 9/1/2018)
 
 -- #users
-INSERT INTO users (name, age) VALUES ("Jon", 25)
-INSERT INTO users (name, age) VALUES ("Ben", 25)
-INSERT INTO users (name, age) VALUES ("Jeremy", 25)
-INSERT INTO users (name, age) VALUES ("Andrew", 25)
-INSERT INTO users (name, age) VALUES ("Paul", 25)
-INSERT INTO users (name, age) VALUES ("Charles", 25)
-INSERT INTO users (name, age) VALUES ("Dana", 25)
-INSERT INTO users (name, age) VALUES ("Dov", 25)
-INSERT INTO users (name, age) VALUES ("Sara", 25)
-INSERT INTO users (name, age) VALUES ("Kyle", 25)
-INSERT INTO users (name, age) VALUES ("Ariel", 25)
-INSERT INTO users (name, age) VALUES ("Jon", 25)
-INSERT INTO users (name, age) VALUES ("Jon", 25)
-INSERT INTO users (name, age) VALUES ("Jon", 25)
-INSERT INTO users (name, age) VALUES ("Jon", 25)
-INSERT INTO users (name, age) VALUES ("Jon", 25)
-INSERT INTO users (name, age) VALUES ("Jon", 25)
-INSERT INTO users (name, age) VALUES ("Jon", 25)
-INSERT INTO users (name, age) VALUES ("Jon", 25)
-INSERT INTO users (name, age) VALUES ("Jon", 25)
+INSERT INTO users (name, age) VALUES ("Jon", 25);
+INSERT INTO users (name, age) VALUES ("Ben", 25);
+INSERT INTO users (name, age) VALUES ("Jeremy", 25);
+INSERT INTO users (name, age) VALUES ("Andrew", 25);
+INSERT INTO users (name, age) VALUES ("Paul", 25);
+INSERT INTO users (name, age) VALUES ("Charles", 25);
+INSERT INTO users (name, age) VALUES ("Dana", 25);
+INSERT INTO users (name, age) VALUES ("Dov", 25);
+INSERT INTO users (name, age) VALUES ("Sara", 25);
+INSERT INTO users (name, age) VALUES ("Kyle", 25);
+INSERT INTO users (name, age) VALUES ("Ariel", 25);
+INSERT INTO users (name, age) VALUES ("Jon", 25);
+INSERT INTO users (name, age) VALUES ("Jon", 25);
+INSERT INTO users (name, age) VALUES ("Jon", 25);
+INSERT INTO users (name, age) VALUES ("Jon", 25);
+INSERT INTO users (name, age) VALUES ("Jon", 25);
+INSERT INTO users (name, age) VALUES ("Jon", 25);
+INSERT INTO users (name, age) VALUES ("Jon", 25);
+INSERT INTO users (name, age) VALUES ("Jon", 25);
+INSERT INTO users (name, age) VALUES ("Jon", 25);
