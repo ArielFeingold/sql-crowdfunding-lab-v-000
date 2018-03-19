@@ -1,14 +1,14 @@
 -- #projects
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_1", "gadgets", 1500, 3/12/2017, 9/1/2018)
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_2", "gadgets", 1500, 3/12/2017, 9/1/2018)
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_3", "gadgets", 1500, 3/12/2017, 9/1/2018)
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_4", "gadgets", 1500, 3/12/2017, 9/1/2018)
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_5", "gadgets", 1500, 3/12/2017, 9/1/2018)
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_6", "gadgets", 1500, 3/12/2017, 9/1/2018)
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_7", "gadgets", 1500, 3/12/2017, 9/1/2018)
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_8", "gadgets", 1500, 3/12/2017, 9/1/2018)
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_9", "gadgets", 1500, 3/12/2017, 9/1/2018)
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_10", "gadgets", 1500, 3/12/2017, 9/1/2018)
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_1", "gadgets", 1500, 3/12/2017, 9/1/2018);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_2", "gadgets", 1500, 3/12/2017, 9/1/2018);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_3", "gadgets", 1500, 3/12/2017, 9/1/2018);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_4", "gadgets", 1500, 3/12/2017, 9/1/2018);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_5", "gadgets", 1500, 3/12/2017, 9/1/2018);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_6", "gadgets", 1500, 3/12/2017, 9/1/2018);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_7", "gadgets", 1500, 3/12/2017, 9/1/2018);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_8", "gadgets", 1500, 3/12/2017, 9/1/2018);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_9", "gadgets", 1500, 3/12/2017, 9/1/2018);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_10", "gadgets", 1500, 3/12/2017, 9/1/2018);
 
 -- #users
 INSERT INTO users (name, age) VALUES ("Jon", 25);
