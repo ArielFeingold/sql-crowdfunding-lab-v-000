@@ -18,5 +18,4 @@ CREATE TABLE pledges (
     amount INTEGER,
     user_id TEXT,
     projext_id TEXT
-
 );
