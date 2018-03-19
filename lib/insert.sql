@@ -34,3 +34,22 @@ INSERT INTO users (name, age) VALUES ("Jon", 25);
 
 -- #pledges
 INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (2, 5);
